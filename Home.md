@@ -37,24 +37,32 @@ Massachusetts. In 1967 we had a working version of Logo implemented in
 Lisp running on a time-shared
 [SDS 940](https://en.wikipedia.org/wiki/SDS_940).
 
-Before I collaborated with Wally and Seymour I worked for Marvin
+Before I collaborated with Seymour and Wally I worked for Marvin
 Minsky at the MIT AI Lab as his secretary. Seymour started his work
 with Marvin before the BBN collaboration and in the summer of 1969 I
 joined Papert and Marvin Minsky at the MIT AI Lab and the Logo Group
 was formed. Wally at BBN continued work with Logo.
 
-## Why this Wiki?
+## Why this website?
 
-I started this wiki because of Seymour Papert's accident in 2006 and
-because I had begun work on another wiki containing example [Logo
+I started this website (originally as a
+[wiki](http://logothings.wikispaces.com)) because of Seymour Papert's
+accident in 2006. It got me thinking about the past. I had already
+begun work on another website containing example [Logo
 projects](http://logoprojects.wikispaces.com/home) including video
-tutorials, images, and text. It got me thinking about the past. I
-encourage contributions and have set up space in this wiki for other
-people's contributions. (See
-[Logo.Adventurers](http:wikispaces.com/Logo.Adventurers).)
-You are welcome to add to that page or create a new one.
+tutorials, images, and text. In creating this website, I want to
+encourage contributions.
 
 ## Who am I?
+
+I am Cynthia Solomon, a researcher in the fields of artificial
+intelligence, computer science and educational computing. While at
+Bolt, Beranek and Newman, I created the first programming language for
+children, Logo, with Wally Feurzeig and Seymour Papert. I was Vice
+President of R&D for Logo Computer Systems, Inc. when Apple Logo was
+developed and was the Director of the Atari Cambridge Research
+Laboratory (See my bio on
+[wikipedia](https://en.wikipedia.org/wiki/Cynthia_Solomon)).
 
 I received a Lifetime Achievement Award at Constructionism 2016. Here
 is my presentation giving a look at Logo's history.
@@ -67,20 +75,18 @@ I also received the 2016 NCWIT Pioneer Award.
 
 In looking for early records of the past I found very few pictures and
 videos, but posted what I had. (We mostly had taken screen images.)
-The earliest pictures I have are from 1969\. I did find a few from the
-early 1970s. Here are Marvin and Seymour in 1971.
+The earliest pictures I have are from 1969. I did find a few from the
+early 1970s. For example, here are Marvin and Seymour in 1971.
 
 ![headshot.jpg](./images/headshot.jpg "Head shot of Seymour and Marvin")</td>
-
-This wiki is an experiment in collecting and presenting material on Logo.
-
-I apologize for the redundancy.
 
 In celebration of Logo at 50 I submitted a paper to a special issue of
 the International Journal of Child-Computer Interaction. Most of the
 paper was written in 1970.
 
 [cynthia.seymour.specialissue1.docx](./documents/cynthia.seymour.specialissue1.docx)
+
+This website is an experiment in collecting and presenting material on Logo.
 
 ## History
 
