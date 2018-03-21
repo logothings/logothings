@@ -17,10 +17,9 @@ is available for those of you new to Github. The gist of the process is:
 
 ## Pull Requests
 
-If you are familiar with git, you may prefer to make a pull request
-with your proposed change/addition. We follow these guidelines:
-
-We use the pull-request model, see [GitHub's help on
+If you are familiar with git, you may prefer to make a *commit* with
+your proposed change/addition. We use the pull-request model, see
+[GitHub's help on
 pull-request](https://help.github.com/articles/using-pull-requests).
 
 In brief, you will:
