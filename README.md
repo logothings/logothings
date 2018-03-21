@@ -24,7 +24,8 @@ Markdown and posted it here.
 10. [Logo Projects](LogoProjects.md)
 11. [Turtle Art at One Laptop per Child](TurtleOLPC.md)
 12. [Books and Papers](Books.md)
-13. [Contact Me](Contact.md)
+13. [Contribute](Contribute.md)
+14. [Contact Me](Contact.md)
 
 <a name="HOME"></a>
 
