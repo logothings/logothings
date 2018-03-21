@@ -8,10 +8,10 @@ contributions to this website.
 A [Guide to Github issuse](https://guides.github.com/features/issues/)
 is available for those of you new to Github. The gist of the process is:
 
-* click on the [Issues](https://github.com/logothings/logothings/issues) tab of the [logothings](https://github.com/logothings/logothings) 
+* click on the [Issues](https://github.com/logothings/logothings/issues) tab of the [logothings](https://github.com/logothings/logothings) repository;
 * scan the current set of open issues to ensure that your contribution does not conflict with another contribution in progress;
 * click on the bright green [New issue](https://github.com/logothings/logothings/issues/new) button;
-* create you issue, including links to any content you may want to add to the site;
+* create you issue, upload or include links to any content you may want to add to the site (Videos should be uploaded to *YouTube* or some other hosting site and a link provided here);
 * be sure to indicate where you want to add your contribution and under what license the contribution will be made (We cannot accept any proprietary content on this website);
 * while editing your issue, add the *Contribution* label by clicking on the *Labels* button on the right side of the screen.
 
