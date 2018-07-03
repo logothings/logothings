@@ -105,7 +105,7 @@ Abstract: Being a mathematician is no more definable as 'knowing' a set of mathe
 Author[s]: Seymour Papert and Cynthia Solomon  
 Date: January 1970  
 
-PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6199/AIM-254.pdf])https://dspace.mit.edu/bitstream/handle/1721.1/6199/AIM-254.pdf)
+PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6199/AIM-254.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/6199/AIM-254.pdf)
 
 Abstract: This note illustrates some ideas about how to initiate beginning students into the art of planning and writing a program complex enough to be considered a project rather than an exercise on using the language or simple programming ideas. The project is to write a program to play a simple game ("one-pile NIM" or "21") as invincibly as possible. We developed the project for a class of seventh grader children we taught in 1968-69 at the Muzzey Junior High School in Lexington, Massachusetts. This was the longest programming project these children had encountered, and our intention was to give them a model of how to go about working under these conditions.  
 
