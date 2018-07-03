@@ -50,7 +50,10 @@ Complete version is here:
 [http://www.citejournal.org/vol5/iss3/seminal/article3.cfm](http://www.citejournal.org/vol5/iss3/seminal/article3.cfm)
 and from that site a pdf can be downloaded.
 
-<span style="background-color: #ffffff; font-family: georgia,serif; font-size: medium;">Papert, S. (2005). You Can’t think about thinking without thinking about thinking about something. _Contemporary Issues in Technology and Teacher Education_ [Online serial],_5_(3/4). Available: <span style="color: #990000;">[http://www.citejournal.org/vol5/iss3/seminal/article4.cfm](http://www.citejournal.org/vol5/iss3/seminal/article4.cfm)</span></span>  
+<span style="background-color: #ffffff; font-family: georgia,serif; font-size: medium;">Papert, S. (2005). You Can’t think about thinking without thinking about thinking about something. _Contemporary Issues in Technology and Teacher Education_ [Online serial],_5_(3/4).
+
+Available: <span style="color: #990000;">[http://www.citejournal.org/vol5/iss3/seminal/article4.cfm](http://www.citejournal.org/vol5/iss3/seminal/article4.cfm)</span></span>  
+
 <span style="background-color: #ffffff; display: block; font-family: georgia,serif; font-size: medium;"><span style="display: block; text-align: center;">  
 <span style="font-family: arial,sans-serif; font-size: 1.5em;">You Can’t Think About Thinking</span>  
 <span style="font-family: arial,sans-serif; font-size: 1.5em;">Without Thinking About</span>  
