@@ -19,7 +19,9 @@ This one is a classic Papert response.
 
 Author[s]: Seymour Papert  
 Date: January 1968  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6084/AIM-154.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/6084/AIM-154.pdf)
+
 Abstract: In December 1965 a paper by Hubert Dreyfus revived the old game of generating curious arguments for and against Artificial Intelligence. Dreyfus hit top form in September 1967 with an explanation in the Review of Metaphysics of the philosophically interesting difficulties encountered in constructing robots. The best of these is that a mechanical arm controlled by a digital computer could not reasonably be expected to move fast enough to play ping-pong.  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-246"></a>AIM-246
@@ -28,7 +30,9 @@ Abstract: In December 1965 a paper by Hubert Dreyfus revived the old game of gen
 
 Author[s]: Seymour Papert  
 Date: October 1971  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/5834/AIM-246.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/5834/AIM-246.pdf)
+
 Abstract: This is a research project on elementary education whose immediate objective is the development of new methods and materials for teaching in an environment of computers and computer-controlled devices. Longer term objectives are related to theories of cognitive processes and to conjectures about the possibility of producing much larger changes than are usually thought possible in the expected intellectual achievement of children. This proposal is formulated in terms of the self-sufficient immediate objectives.  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-247"></a>AIM-247
@@ -37,7 +41,9 @@ Abstract: This is a research project on elementary education whose immediate obj
 
 Author[s]: Seymour Papert  
 Date: October 1971  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/5835/AIM-247.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/5835/AIM-247.pdf)
+
 Abstract: This paper is dedicated to the hope that someone with power to act will one day see that contemporary research on education is like the following experiment by a nineteenth century engineer who worked to demonstrate that engines were better than horses. This he did by hitching a 1/8 HP motor in parallel with his team of four strong stallions. After a year of statistical research he announced a significant difference. However, it was generally thought that there was a Hawthorne effect on the horses.  
 
 Complete version is here:
@@ -76,7 +82,9 @@ Seymour Papert
 
 Author[s]: Seymour Papert and Cynthia Solomon  
 Date: June 1971  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/5836/AIM-248.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/5836/AIM-248.pdf)
+
 Abstract: When people talk about computers in education they do not all have the same image in mind. Some think of using the computer to program the kid; others think of using the kid to program the computer. But most of them have at least this in common: the transaction between the computer and the kid will be some kind of "conversation" or "questions and answers" in words or numbers.  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-249"></a>AIM-249
@@ -85,7 +93,9 @@ Abstract: When people talk about computers in education they do not all have the
 
 Author[s]: Seymour Papert  
 Date: July 1971  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/5837/AIM-249.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/5837/AIM-249.pdf)
+
 Abstract: Being a mathematician is no more definable as 'knowing' a set of mathematical facts than being a poet is definable as knowing a set of linguistic facts. Some modern math ed reformers will give this statement a too easy assent with the comment: 'Yes, they must understand, not merely know.' But this misses the capital point that being a mathematician, again like being a poet, or a composer or an engineer, means doing, rather than knowing or understanding. This essay is an attempt to explore some ways in which one might be able to put children in a better position to do mathematics rather than merely to learn about it.  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-254"></a>AIM-254
@@ -94,7 +104,9 @@ Abstract: Being a mathematician is no more definable as 'knowing' a set of mathe
 
 Author[s]: Seymour Papert and Cynthia Solomon  
 Date: January 1970  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6199/AIM-254.pdf])https://dspace.mit.edu/bitstream/handle/1721.1/6199/AIM-254.pdf)
+
 Abstract: This note illustrates some ideas about how to initiate beginning students into the art of planning and writing a program complex enough to be considered a project rather than an exercise on using the language or simple programming ideas. The project is to write a program to play a simple game ("one-pile NIM" or "21") as invincibly as possible. We developed the project for a class of seventh grader children we taught in 1968-69 at the Muzzey Junior High School in Lexington, Massachusetts. This was the longest programming project these children had encountered, and our intention was to give them a model of how to go about working under these conditions.  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-298"></a>AIM-298
@@ -103,7 +115,9 @@ Abstract: This note illustrates some ideas about how to initiate beginning stude
 
 Author[s]: Seymour Papert  
 Date: June 1973  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6213/AIM-298.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/6213/AIM-298.pdf)
+
 Abstract: Section 1: Schematic outline of project and what we want. Hardly any intellectual content. Section 2: Statement of our goals in general terms. This statement is intended to have serious intellectual content but lacks meaty examples. Readers who find it too abstract for comfort might like to read at least part of #3 first. Section 3: A series fo extended examples intended to give more concrete substance to the generalities in #2\. Section4: This is the real "proposal". It sets out specifically a list of concrete "goals" on which we want to work in the immediate future. Appendix: Papers by Jeanne Bamberger, Marvin Minsky, Seymour Papert and Cynthia Solomon.  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-371"></a>AIM-371
@@ -112,7 +126,9 @@ Abstract: Section 1: Schematic outline of project and what we want. Hardly any i
 
 Author[s]: Seymour A. Papert  
 Date: June 1976  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6248/AIM-371.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/6248/AIM-371.pdf)
+
 Abstract: This proposal to the NSF describes a new phase of research planned in LOGO. Previous phases have concentrated on developing a conceptual superstructure (theories and teaching methods) and a material infra- structure (hardware and software) for a new style of using computers in education. We now want to test, to prove and to disseminate the results of our work, which will, of course, continue along the lines of the early phases. Part 1 is an overview of where we are and what we have to do next in the historical framework of the uses of computers for education. Parts 2 and 3 focus more on the specific content of the work planned for the next three years (1976-79).  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-375"></a>AIM-375
@@ -121,7 +137,9 @@ Abstract: This proposal to the NSF describes a new phase of research planned in 
 
 Author[s]: Cynthia J. Solomon and Seymour Papert  
 Date: July 1976  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6252/AIM-375.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/6252/AIM-375.pdf)
+
 Abstract: This paper explores some important issues with regard to using computers in education. It probes into the question of what programming ideas and projects will engage young children. In particular, a seven year old child’s involvement in turtle graphics is presented as a case study.  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-460"></a>AIM-460
@@ -130,7 +148,9 @@ Abstract: This paper explores some important issues with regard to using compute
 
 Author[s]: Seymour Papert and Daniel H. Watt  
 Date: September 1977  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6286/AIM-460.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/6286/AIM-460.pdf)
+
 Abstract: This research will thoroughly document the experiences of a small number of 5th grade children in an elementary school computer laboratory, using LOGO, an advanced computer language designed for children. Four groups of four children will be taught a 10-week LOGO course. Detailed anecdotal records will be kept, and observers will note the development of the children’s computer programming skills, and the acquisition of knowledge in the areas of mathematics, science, and language, and of cognitive strategies and attitudinal changes which transfer beyond the specific subject matter studied.  
 
 ### <a name="x-Readings from the AI Lab, 60s through 70s-AIM-496"></a>AIM-496
@@ -139,7 +159,9 @@ Abstract: This research will thoroughly document the experiences of a small numb
 
 Author[s]: Seymour A. Papert and Sylvia Weir  
 Date: September 1978  
+
 PDF Download: [https://dspace.mit.edu/bitstream/handle/1721.1/6308/AIM-496.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/6308/AIM-496.pdf)
+
 Abstract: In this proposal we describe a technological step towards the realization of INFORMATION PROSTHETICS. Our primary focus is on using rather than making the technology. Specifically, our goal is to transpose for the use of cerebral-palsied children a computer- based learning environment we have developed, and to study in this environment a series of issues in developmental psychology, in the psychology of learning, in psycho-diagnostic techniques and in methods of instruction.</div>
 
 ----
