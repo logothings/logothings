@@ -8,6 +8,9 @@
 
 Papert "Decision Makers" (1970) ![PDF](./images/pdf.png) [Download](./documents/PapertDecisionMaker.pdf)
 
+[History of Logo](https://github.com/logothings/logothings/blob/master/documents/eScholarship%20UC%20item%201623m1p3.pdf) (2020)
+Author(s): Solomon, CynthiaHARVEY, BrianKahn, KenLieberman, HenryMiller, Mark LMinsky, MargaretPapert, ArtemisSilverman, Brian
+
 ## Books
 
 [Computer Environments for Children](./computerenvironments/Home.md)
