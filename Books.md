@@ -9,7 +9,11 @@
 Papert "Decision Makers" (1970) ![PDF](./images/pdf.png) [Download](./documents/PapertDecisionMaker.pdf)
 
 [History of Logo](https://github.com/logothings/logothings/blob/master/documents/eScholarship%20UC%20item%201623m1p3.pdf) (2020)
-Author(s): Solomon, CynthiaHARVEY, BrianKahn, KenLieberman, HenryMiller, Mark LMinsky, MargaretPapert, ArtemisSilverman, Brian
+Author(s): Solomon, Cynthia; Harvey, Brian; Kahn, Ken; Lieberman, Henry; Miller, Mark L; Minsky, Margaret; Papert, Artemis; Silverman, Brian
+
+[TurtleStitching: At Least 20 Things to Do with a Computer and Computerized Embroidery Machine](https://github.com/logothings/logothings/blob/master/documents/turtlestitching_%2020%20things%203%2012%2022.pdf)(2022)
+Authors: Klimczak, Susan; Solomon, Cynthia
+
 
 ## Books
 
